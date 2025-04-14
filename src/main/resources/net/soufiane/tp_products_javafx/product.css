@@ -1,0 +1,24 @@
+.Button {
+    -fx-font-size: 12px ;
+    -fx-background-color: yellow;
+    -fx-alignment: center;
+}
+
+.text-field:focused {
+    -fx-background-color: yellow;
+    -fx-border-radius: 5px;
+    -fx-border-width: 1px;
+    -fx-border-style: solid;
+}
+
+.root {
+    -fx-background-color: #ededc1;
+}
+
+.Label {
+    -fx-font-size: 12px;
+}
+
+.list-view:hover {
+    -fx-background-color: #ff8800;
+}
