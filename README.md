@@ -20,6 +20,6 @@
 </tr>
 <tr>>
 <td>Erreur de suppression d'un produit </td>
-<td><img src="captures/Capture_4_erre"ur_suppression_produit.png></td>
+<td><img src="captures/Capture_4_erreur_suppression_produit.png"></td>
 </tr>
 </table>
